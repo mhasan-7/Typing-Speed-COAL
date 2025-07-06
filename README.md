@@ -60,7 +60,7 @@ This project demonstrates:
 
 ## 📝 Author
 
-- **Your Name Here**
+- Muhammad Hassan
 - Computer Science Student | Assembly & Systems Programming Enthusiast
 
 ---
